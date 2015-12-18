@@ -1,4 +1,4 @@
-# WorkflowStateUpdate
+# Workflow State Update
 
 The project includes:
 
