@@ -1,4 +1,4 @@
-# Workflow State Update
+# Sitecore - Workflow State Update
 
 The project includes:
 
